@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525725125619",
+    "project_id": "voice-343b4",
+    "storage_bucket": "voice-343b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525725125619:android:374a3377560d7f4f506086",
+        "android_client_info": {
+          "package_name": "com.ayman.voice_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525725125619-jbdjsi9hh27d9oeu6me2qvvtvjl2s5gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JWZr2EvywZ3eqo2K4RwqERjQE64_BzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525725125619-jbdjsi9hh27d9oeu6me2qvvtvjl2s5gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
